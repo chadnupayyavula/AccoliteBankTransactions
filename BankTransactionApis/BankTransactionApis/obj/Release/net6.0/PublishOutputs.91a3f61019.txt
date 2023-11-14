@@ -1,0 +1,17 @@
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\BankTransactionApis.exe
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\BankTransactionApis.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\BankTransactionApis.deps.json
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\BankTransactionApis.runtimeconfig.json
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\BankTransactionApis.pdb
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Tools\Personal Learnings\DotNet Projects\BankTransactionApis\BankTransactionApis\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
